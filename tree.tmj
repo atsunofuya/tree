@@ -613,8 +613,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":25,
          "firstgid":2956,
-         "source":"tilesets\/tree.tsx"
+         "image":"tilesets\/tree.png",
+         "imageheight":450,
+         "imagewidth":801,
+         "margin":0,
+         "name":"tree",
+         "spacing":0,
+         "tilecount":350,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
